@@ -1,4 +1,12 @@
-### Hi there 👋
+<h3 align="center"> 💻 About me 💻 </h3>
+<p align="center">
+  <a href="https://twix.tistory.com">
+    <img src="https://img.shields.io/badge/TISTORY-000000?style=flat-square&logo=Tidal&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ol_i0_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
+</p>
 
 <h3 align="center"> 🛠 Stack 🛠</h3>
 <p align="center">
