@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<h3 align="center"> ✏ Stack ✏</h3>
+<h3 align="center"> 🛠 Stack 🛠</h3>
 <p align="center">
+  more will be added soon
   <br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
