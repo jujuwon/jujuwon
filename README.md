@@ -1,3 +1,9 @@
+Hi there👋
+Good day! I am Juwon Lee
+
+💫Experience
+Best of Best (Kitri) 10th security product development
+
 <h3 align="center"> 💻 About me 💻 </h3>
 <p align="center">
   <a href="https://twix.tistory.com">
