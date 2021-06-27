@@ -1,7 +1,8 @@
-Hi there👋
+<h3>Hi there👋</h3>
+<br>
 Good day! I am Juwon Lee
 
-💫Experience
+<h3>💫Experience</h3>
 Best of Best (Kitri) 10th security product development
 
 <h3 align="center"> 💻 About me 💻 </h3>
