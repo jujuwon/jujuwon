@@ -1,5 +1,4 @@
 <h3>Hi there👋</h3>
-<br>
 Good day! I am Juwon Lee
 
 <h3>💫Experience</h3>
