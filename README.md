@@ -2,9 +2,11 @@
 Good day! I am Juwon Lee
 
 <h3>💫Experience</h3>
-Best of Best (Kitri) 10th security product development<br>
-Changwon University Computer Engineering Student<br>
-Member of information security club CASPER
+<ul>
+  <li>Best of Best (Kitri) 10th security product development</li>
+  <li>Changwon University Computer Engineering Student</li>
+  <li>Member of information security club CASPER</li>
+</ul>
 
 <h3 align="center"> 💻 About me 💻 </h3>
 <p align="center">
