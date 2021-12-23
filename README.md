@@ -40,7 +40,7 @@ Good day! I am Juwon Lee
 </p>
 <br>
 <p align="center">
-  <a href="https://solved.ac/fud0427">
+  <a href="https://solved.ac/juju">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juju">
   </a>
 </p>
