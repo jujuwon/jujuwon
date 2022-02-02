@@ -1,53 +1,33 @@
-<h3>Hi there👋</h3>
-Good day! I am Juwon Lee
-
-<h3>💫Experience</h3>
-<ul>
-  <li>NOSLab Undergraduate Winter Internships (2022.01 ~)</li>
-  <li>Best of the Best (Kitri) 10th Security Product Development (2021.07 ~)</li>
-  <li>Inforsec club CASPER (2018.05 ~)</li>
-  <li>Changwon National University Computer Engineering Student (2018.05 ~)</li>
-</ul>
-
-<h3 align="center"> 💻 About me 💻 </h3>
-<p align="center">
-  <a href="https://twix.tistory.com">
-    <img src="https://img.shields.io/badge/TISTORY-000000?style=flat-square&logo=Tidal&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/ol_i0_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-  </a>
-</p>
-
-<h3 align="center"> 🛠 Stack 🛠</h3>
-<p align="center">
-  more will be added soon
-  <br><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-</p>
+## LEE JUWON 🌱
 <br>
 
-<p align="center">
-  <a href="https://solved.ac/juju">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juju">
-  </a>
-</p>
+![jujuwon's Github stats](https://github-readme-stats.vercel.app/api?username=jujuwon&show_icons=true&theme=github_dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juju)](https://solved.ac/juju/)
+
+### 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+
+
+### 💫 Experience
+
+- CASPER 정보보안 동아리 부회장 (2022.01 ~ )
+- NOSLab 운영체제 연구실 인턴 (2021.12 ~ )
+- Best of the Best (Kitri) 10기 보안제품개발 트랙 (2021.07 ~ )
+- 육군 지상작전사령부 CERT 정보보호병 (2019.05 ~ 2020.12)
+- 창원대학교 컴퓨터공학과 (2018.03 ~ )
+
 
 <!--
+### 📫 Contacts
 **casperWebmon/casperWebmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
