@@ -2,7 +2,7 @@
 <br>
 
 ![jujuwon's Github stats](https://github-readme-stats.vercel.app/api?username=jujuwon&show_icons=true&theme=github_dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juju)](https://solved.ac/juju/)
+
 
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
@@ -24,7 +24,9 @@
 - Best of the Best (Kitri) 10기 보안제품개발 트랙 (2021.07 ~ )
 - 육군 지상작전사령부 CERT 정보보호병 (2019.05 ~ 2020.12)
 - 창원대학교 컴퓨터공학과 (2018.03 ~ )
+<br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juju)](https://solved.ac/juju/)
 
 <!--
 ### 📫 Contacts
