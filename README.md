@@ -6,7 +6,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 
-### Experience
+### Experiences
 
 - Software Maestro 13th (2022.04 ~ 2022.12)
 - Best of the Best (Kitri) 10th TOP30 (2021.07 ~ 2022.03)
