@@ -10,6 +10,10 @@
 - email : webmon0727@gmail.com
 
 
+### Careers
+- Toss Securities (토스증권) Server Developer (2023.09 ~ )
+
+
 ### Experiences
 
 - Software Maestro 13th (2022.04 ~ 2022.12)
