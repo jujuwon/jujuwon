@@ -7,6 +7,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 
+- email : webmon0727@gmail.com
+
+
 ### Experiences
 
 - Software Maestro 13th (2022.04 ~ 2022.12)
